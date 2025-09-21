@@ -1,0 +1,85 @@
+.floral {
+  border: 30px solid transparent;
+  padding: 10px;
+  border-image: url(img/borderimg/multicolorsmallfloral.png) 30 30 round;
+  overflow: auto;
+  margin: 5px;
+}
+
+.roses {
+    border: 21px solid transparent;
+    padding: 15px;
+    border-image: url(img/borderimg/roses.png) 21 round;
+    overflow: auto;
+    margin: 5px;
+}
+
+.thistle {
+    border: 26px solid transparent;
+    padding: 15px;
+    border-image: url(img/borderimg/thistle.png) 26 round;
+    overflow: auto;
+    margin: 5px;
+}
+
+        
+.lily {
+    border: 26px solid transparent;
+    padding: 15px;
+    border-image: url(img/borderimg/whitebluelily.png) 26 round;
+    overflow: auto;
+    margin: 5px;
+}
+
+.morningglory {
+      border: 26px solid transparent;
+      padding: 10px;
+      border-image: url(img/borderimg/bluemorningglory.png) 26 round;
+      overflow: auto;
+      margin: 5px;
+      }
+
+.thickvines {
+    border: 23px solid transparent;
+    padding: 10px;
+    border-image: url(img/borderimg/thickvines.png) 23 round;
+    overflow: auto;
+    margin: 5px;
+}
+
+.thinredfloral {
+    border: 11px solid transparent;
+    padding: 10px;
+    border-image: url(img/borderimg/thinredfloral.png) 11 round;
+    overflow: auto;
+    margin: 5px;
+    }
+
+.thinpurplefloral {
+    border: 9px solid transparent;
+    padding: 10px;
+    border-image: url(img/borderimg/thinpurplefloral.png) 9 round;
+    overflow: auto;
+    margin: 5px;
+    }
+
+.thinlilacfloral {
+    border: 11px solid transparent;
+    padding: 10px;
+    border-image: url(img/borderimg/thinlilacfloral.png) 11 round;
+    overflow: auto;
+    margin: 5px;
+    }
+
+.thickframe {
+    border: 50px solid;
+    border-image: url(img/borderimg/thickfloralframe.png) 50;    
+    margin: 5px;
+    }
+
+.thinframe {
+    border: 10px solid;
+    border-image: url(img/borderimg/thinpictureframe.png) 10 round;
+    padding: 5px;
+    margin: 5px;
+    }
